@@ -1,0 +1,3 @@
+test:
+  list: aaa,bbb,ccc
+  map: '{"id":"22","name":"xxl"}'
